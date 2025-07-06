@@ -1,6 +1,6 @@
 # 🎙️  Voice RAG
 
-** Voice RAG** is a Flask-based voice-enabled chatbot system powered by Retrieval-Augmented Generation (RAG) and OpenAI's GPT-4. It allows users to ask spoken questions, converts them to text, retrieves relevant document chunks from a local knowledge base, and generates accurate, context-aware answers. Optionally, it also responds with voice.
+**Voice RAG** is a Flask-based voice-enabled chatbot system powered by Retrieval-Augmented Generation (RAG) and OpenAI's GPT-4. It allows users to ask spoken questions, converts them to text, retrieves relevant document chunks from a local knowledge base, and generates accurate, context-aware answers. Optionally, it also responds with voice.
 
 ---
 
